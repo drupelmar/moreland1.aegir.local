@@ -6,7 +6,7 @@ projects[drupal][type] = core
 projects[drupal][version] = 6.28
 
 ;Install profile
-projects[mysite][type] = profile
-projects[mysite][download][type] = git
-projects[mysite][download][url] = git://github.com/drupelmar/moreland.aegir.local.git
+projects[moreland1][type] = profile
+projects[moreland1][download][type] = git
+projects[moreland1][download][url] = git://github.com/drupelmar/moreland1.aegir.local.git
 
