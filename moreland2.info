@@ -1,0 +1,4 @@
+name =  moreland.aegir.local
+description = Installation profile for moreland2.aegir.local
+version = 1.0
+core = 6.x
